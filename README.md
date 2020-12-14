@@ -2,6 +2,7 @@
 Machine Learning package implemented from scratch
 
 
-As an example of "Hello World", here is a model learning MNIST 
+# Hello World in Machine Learning
+As an example of learning, here is the validation accuracy of the MNIST dataset below: 
 
 ![](validation_accuracy.png)
